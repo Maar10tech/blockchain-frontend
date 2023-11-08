@@ -1,0 +1,97 @@
+{
+    "courses": [
+        {
+            "id": "IT23B",
+            "name": "Blockchain",
+            "students": [
+                {
+                    "id": "T100",
+                    "name": "Harry",
+                    "surname": "Potter"
+                },
+                {
+                    "id": "T101",
+                    "name": "Emily",
+                    "surname": "Johnson"
+                },
+                {
+                    "id": "T102",
+                    "name": "Michael",
+                    "surname": "Brown"
+                },
+                {
+                    "id": "T103",
+                    "name": "Sophia",
+                    "surname": "Davis"
+                },
+                {
+                    "id": "T104",
+                    "name": "Daniel",
+                    "surname": "Martinez"
+                }
+            ]
+        },
+        {
+            "id": "BS28A",
+            "name": "Accounting",
+            "students": [
+                {
+                    "id": "T110",
+                    "name": "Hermione",
+                    "surname": "Granger"
+                },
+                {
+                    "id": "T111",
+                    "name": "Ron",
+                    "surname": "Weasley"
+                },
+                {
+                    "id": "T102",
+                    "name": "Michael",
+                    "surname": "Brown"
+                },
+                {
+                    "id": "T113",
+                    "name": "Natalie",
+                    "surname": "White"
+                },
+                {
+                    "id": "T114",
+                    "name": "William",
+                    "surname": "Hall"
+                }
+            ]
+        },
+        {
+            "id": "IT67O",
+            "name": "Operation Research",
+            "students": [
+                {
+                    "id": "T120",
+                    "name": "Severus",
+                    "surname": "Snape"
+                },
+                {
+                    "id": "T121",
+                    "name": "Minerva",
+                    "surname": "McGonagall"
+                },
+                {
+                    "id": "T102",
+                    "name": "Michael",
+                    "surname": "Brown"
+                },
+                {
+                    "id": "T123",
+                    "name": "Pomona",
+                    "surname": "Sprout"
+                },
+                {
+                    "id": "T124",
+                    "name": "Sybill",
+                    "surname": "Trelawney"
+                }
+            ]
+        }
+    ]
+}
